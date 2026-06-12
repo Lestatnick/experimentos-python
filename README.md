@@ -10,9 +10,9 @@
 
 ## 📌 Sobre o Projeto
 
-Este repositório foi criado para centralizar, organizar e documentar todos os meus códigos de testes, scripts automatizados e experimentos práticos desenvolvidos na linguagem **Python**. É o meu laboratório pessoal de programação!
+Este repositório foi criado para centralizar, organizar e documentar os meus códigos de testes, scripts e experimentos práticos desenvolvidos na linguagem **Python**. É o meu laboratório pessoal de programação!
 
-O projeto inclui códigos desenvolvidos durante os meus estudos na **UCS** (Universidade de Caxias do Sul / Unidade Acadêmica) e testes independentes de lógica e algoritmos.
+Os códigos aqui fazem parte da minha jornada de aprendizado no curso **Técnico em Desenvolvimento de Sistemas** no **Senac Pernambuco** (Recife).
 
 ---
 
